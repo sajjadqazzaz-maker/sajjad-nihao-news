@@ -1,3 +1,4 @@
+
 [
   {
     "id": 1,
@@ -115,5 +116,14 @@
     "date": "2026-09-28",
     "imageURL": "https://raw.githubusercontent.com/sajjadqazzaz-maker/sajjad-nihao-news/main/IMG_5503.jpeg",
     "sourceURL": "https://iqch.org/"
+  },
+  {
+    "id": 14,
+    "title": "سجاد القزاز يفتح التطبيق قريباً",
+    "summary": "ترقبوا إطلاق تطبيق سجاد نيهاو قريباً.",
+    "content": "سجاد القزاز يفتح التطبيق قريباً.",
+    "date": "2026-10-19",
+    "imageURL": "",
+    "sourceURL": ""
   }
 ]
