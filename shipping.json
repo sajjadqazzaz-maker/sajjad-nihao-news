@@ -1,0 +1,29 @@
+{
+ "updated": "",
+ "lcl": {
+  "intro": "",
+  "unit": "للمتر المكعب",
+  "routes": [
+   {"from": "إيوو", "to": "بغداد", "price": "", "days": "", "details": ""},
+   {"from": "قوانغتشو", "to": "بغداد", "price": "", "days": "", "details": ""}
+  ],
+  "note": ""
+ },
+ "fcl": {
+  "intro": "",
+  "unit": "للحاوية",
+  "routes": [
+   {"from": "إيوو", "to": "بغداد", "price": "", "days": "", "details": ""},
+   {"from": "قوانغتشو", "to": "بغداد", "price": "", "days": "", "details": ""}
+  ],
+  "note": ""
+ },
+ "air": {
+  "intro": "",
+  "unit": "للكيلو",
+  "routes": [
+   {"from": "قوانغتشو", "to": "بغداد", "price": "", "days": "", "details": ""}
+  ],
+  "note": ""
+ }
+}
