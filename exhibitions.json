@@ -1,98 +1,10 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-09",
  "sources": {
   "necc": "ok (8)",
-  "sniec": "ok (38)"
+  "sniec": "ok (32)"
  },
  "exhibitions": [
-  {
-   "name_zh": "2026中国国际社会公共安全产品博览会",
-   "name_ar": "معرض الصين الدولي لمنتجات الأمن والسلامة العامة 2026",
-   "start": "2026-11-03",
-   "end": "2026-11-06",
-   "city": "beijing",
-   "venue_zh": "中国国际展览中心（顺义馆）",
-   "category": "tech",
-   "id": "manual-2026-11-03-19中国",
-   "source": "manual"
-  },
-  {
-   "id": "sniec-2799",
-   "name_zh": "上海国际压缩机及设备展览会",
-   "name_en": "ComVac ASIA",
-   "start": "2026-11-03",
-   "end": "2026-11-06",
-   "city": "shanghai",
-   "venue_zh": "上海新国际博览中心",
-   "venue_en": "Shanghai New International Expo Centre",
-   "url": "https://www.comvac-asia.com",
-   "source": "sniec",
-   "category": "machinery"
-  },
-  {
-   "id": "sniec-2802",
-   "name_zh": "亚洲国际动力传动与控制技术展览会",
-   "name_en": "PTC ASIA",
-   "start": "2026-11-03",
-   "end": "2026-11-06",
-   "city": "shanghai",
-   "venue_zh": "上海新国际博览中心",
-   "venue_en": "Shanghai New International Expo Centre",
-   "url": "https://www.ptc-asia.com/index.html",
-   "source": "sniec",
-   "name_ar": "معرض آسيا الدولي للمحركات ونقل الحركة وتقنيات التحكم — PTC Asia",
-   "category": "machinery"
-  },
-  {
-   "id": "sniec-2798",
-   "name_zh": "亚洲国际物流技术与运输系统展览会",
-   "name_en": "CeMAT ASIA",
-   "start": "2026-11-03",
-   "end": "2026-11-06",
-   "city": "shanghai",
-   "venue_zh": "上海新国际博览中心",
-   "venue_en": "Shanghai New International Expo Centre",
-   "url": "https://www.cemat-asia.com/",
-   "source": "sniec",
-   "name_ar": "معرض آسيا الدولي لتقنيات اللوجستيات وأنظمة النقل — CeMAT ASIA 2026",
-   "category": "logistics"
-  },
-  {
-   "id": "sniec-2800",
-   "name_zh": "亚洲国际电子商务包装技术展览会",
-   "name_en": "E-PACK TECH ASIA",
-   "start": "2026-11-03",
-   "end": "2026-11-06",
-   "city": "shanghai",
-   "venue_zh": "上海新国际博览中心",
-   "venue_en": "Shanghai New International Expo Centre",
-   "source": "sniec",
-   "category": "electronics"
-  },
-  {
-   "id": "sniec-2801",
-   "name_zh": "亚洲智能加工与工业零部件展览会",
-   "name_en": "Factorynetwork Business Conference",
-   "start": "2026-11-03",
-   "end": "2026-11-06",
-   "city": "shanghai",
-   "venue_zh": "上海新国际博览中心",
-   "venue_en": "Shanghai New International Expo Centre",
-   "url": "https://fbc.fna.cn/fbcsh/2022_2/index",
-   "source": "sniec",
-   "category": "auto"
-  },
-  {
-   "name_zh": "2026DMP大湾区工业博览会",
-   "name_ar": "معرض منطقة الخليج الكبرى للصناعة والتصنيع — DMP 2026",
-   "start": "2026-11-04",
-   "end": "2026-11-07",
-   "city": "shenzhen",
-   "venue_zh": "深圳国际会展中心（宝安新馆）",
-   "category": "machinery",
-   "id": "manual-2026-11-04-15深圳",
-   "source": "manual"
-  },
   {
    "id": "necc-c3609654b6",
    "name_zh": "中国国际进口博览会",
@@ -404,18 +316,6 @@
    "source": "sniec",
    "name_ar": "معرض الصين الدولي الـ33 لمعدات وتقنيات الكهرباء — EP Shanghai 2026",
    "category": "energy"
-  },
-  {
-   "id": "sniec-2962",
-   "name_zh": "2026上海国际人形机器人与机器人全产业链展览会",
-   "name_en": "Shanghai International Humanoid Robot and Robotics Industry Chain Exhibition 2026",
-   "start": "2026-12-09",
-   "end": "2026-12-11",
-   "city": "shanghai",
-   "venue_zh": "上海新国际博览中心",
-   "venue_en": "Shanghai New International Expo Centre",
-   "source": "sniec",
-   "category": "tech"
   },
   {
    "id": "sniec-2945",
